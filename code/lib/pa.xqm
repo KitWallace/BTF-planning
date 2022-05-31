@@ -6,7 +6,7 @@ declare namespace h = "http://www.w3.org/1999/xhtml";
 declare variable $pa:base := "https://bristoltrees.space"; 
 declare variable $pa:dbroot := "/db/apps/btfpa/"; 
 declare variable $pa:root := "/Planning/"; 
-declare variable $pa:googlekey  := "AIzaSyB-sB9Nwqkh-imfUd1-w3_lz4KFhL-_VqU";
+declare variable $pa:googlekey  := "xxx";
 declare variable $pa:bcc-path := "https://planningonline.bristol.gov.uk";
 declare variable $pa:months :=
 	("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct","Nov", "Dec");
