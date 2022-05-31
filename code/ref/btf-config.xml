@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+    <name>Bristol Tree Forum</name>
+    <abbrev>BTF</abbrev>
+    <url>http://bristoltreeforum.org</url>
+    <response-address>BRISTOL TREE FORUM</response-address>
+    <include-response/>
+    <area>bristol</area>
+    <icon>/trees/assets/BTF.png</icon>
+    <title>Tree Planning Applications</title>
+    <style> body { padding-right:0px; 
+        padding-left: 0px; 
+        color: #0C0B0B; 
+        background-color :
+        white; } 
+        .big_map {position: absolute; top:80pt; left:5pt; right:5pt; width: 100%;
+        height:500pt; } 
+        .small_map {position: absolute; top:40pt; left:52%; right:10pt; width:  40%; height:400pt; }
+        .logo {position: relative; left:200px; width:700px;}
+        .icon {position: absolute;  width:80px; height:80px; top:30px; left:5%; margin-left: -10px; }
+        
+        
+    </style>
+</group>
